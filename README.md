@@ -1,8 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you. I'm Akash</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! I'm Akash. Nice to see you. </h1>
 
----
+
 
 <p>With pixel-perfect precision and code that sings, I weave digital wonders as a full stack web wizard. </p>
+
 
 
 <h3>Things I code with</h3>
