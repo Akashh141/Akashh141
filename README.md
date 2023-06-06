@@ -1,6 +1,6 @@
 ### Hi, I'm Akash! &nbsp;&nbsp;<sup>👾 &#12299;With pixel-perfect precision and code that sings, I weave digital wonders as a full stack web wizard.</sup>
 
-----
+
 
 <h3>Things I code with</h3>
 <p>
